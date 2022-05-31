@@ -11,4 +11,7 @@ Welcome to Binary Tech Labs, my goal is to provide tutorials, reviews, and other
 
 &nbsp;
 
-Want to send me something?\ Binary Tech Labs\ 126 Smuggles Cove\ Winnipeg, MB R3X 1R7\{: .prompt-tip }
+Want to send me something?  
+Binary Tech Labs  
+126 Smuggles Cove  
+Winnipeg, MB R3X 1R7  {: .prompt-tip }
