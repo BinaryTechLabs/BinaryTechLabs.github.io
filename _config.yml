@@ -16,36 +16,36 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Winnipeg
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Binary Tech Labs                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: When you need results   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Our goal is to provide tutorials, reviews, and other content that will help people learn more about technology. I've been experimenting with Raspberry Pi and microcontrollers for a while now, and I'm really enjoying it. The amazing thing about these devices is that they're inexpensive so you can get started right away.
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+# fill in the protocol & hostname for your site, e.g., 'https://BinaryTechLabs.github.io'
+url: 'http://www.binarytechlabs.com'
 
 github:
-  username: github_username             # change to your github username
+  username: BinaryTechLabs             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: binarytechlabs            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: BinaryTechLabs
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/BinaryTechLabs      # change to your twitter homepage
+    - https://github.com/binarytechlabs       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://yt3.ggpht.com/7S2W-pkvaQzXVLDmuA_MqoUcUnrP3sJG0ZahK6cCnzobbTt77Ik1StDmocnQUWIns-cGFEYj=s88-c-k-c0x00ffffff-no-rj
 
 # boolean type, the global switch for ToC in posts.
 toc: true
