@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   Our goal is to provide tutorials, reviews, and other content that will help people learn more about technology. I've been experimenting with Raspberry Pi and microcontrollers for a while now, and I'm really enjoying it. The amazing thing about these devices is that they're inexpensive so you can get started right away.
 
 # fill in the protocol & hostname for your site, e.g., 'https://BinaryTechLabs.github.io'
-url: 'http://www.binarytechlabs.com'
+url: 'www.binarytechlabs.com'
 
 github:
   username: BinaryTechLabs             # change to your github username
