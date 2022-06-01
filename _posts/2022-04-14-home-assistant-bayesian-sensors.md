@@ -38,4 +38,4 @@ If we're using a template, the value template comes next, and this is where you 
 
 ## Example
 
-change
+changes
