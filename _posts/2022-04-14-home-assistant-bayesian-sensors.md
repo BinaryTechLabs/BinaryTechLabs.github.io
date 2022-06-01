@@ -31,3 +31,7 @@ Don't worry about the weights for these variables right now; we'll get to them l
 Okay, now comes the real strength of this integration: the observations, and you'll repeat these steps for each additional condition you add, as we'll see in the example. First, we must declare the platform we will be using, which can be one of three types: state, numeric state, or template. They provide us three full examples to demonstrate how these function below, but after we decide which platform to use, the next one is entity ID, which is the entity we are monitoring for a change if we chose state or numeric state.
 
 If we're using a template, the value template comes next, and this is where you define the template parameters. The probability given true is then required and simply means that this will be the new probability if it is active, followed by the probability given false, which defaults to 1 minus the probability given true unless we want to weight it differently, and finally the to state, which is used to monitor state change when using state or numeric state.
+
+&nbsp;
+
+## Example
