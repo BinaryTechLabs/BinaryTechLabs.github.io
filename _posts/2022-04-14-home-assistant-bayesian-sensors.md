@@ -11,6 +11,7 @@ The Bayesian Sensor is a great option that is underused in Home Assistant. This 
 &nbsp;
 
 {% include youtube.html id='oDWQCJbBrKE' %}
+> **YouTube:** You can watch on YouTube istead of reading this!  
 
 ## Background
 
@@ -35,7 +36,3 @@ Okay, now comes the real strength of this integration: the observations, and you
 If we're using a template, the value template comes next, and this is where you define the template parameters. The probability given true is then required and simply means that this will be the new probability if it is active, followed by the probability given false, which defaults to 1 minus the probability given true unless we want to weight it differently, and finally the to state, which is used to monitor state change when using state or numeric state.
 
 &nbsp;
-
-## Example
-
-changes
