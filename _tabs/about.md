@@ -4,11 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Welcome to Binary Tech Labs, where my goal is to create tutorials, reviews, and other content that will assist people in learning more about Home Assistant, IoT devices, Raspberry Pi's and other Single Board Computers, as well as other technologies. For a long time now, I've been exploring electronics and technology, which I do truly enjoy.
+Welcome to Binary Tech Labs, where my goal is to create tutorials, reviews, and other content that will assist people in learning more about Home Assistant, IoT devices, Raspberry Pi's and other Single Board Computers, as well as other technologies. For a long time now, I've been exploring electronics and various tech, which I do truly enjoy.
 
 &nbsp;
 
-Electronics and technology intrigued me as a child. I recall receiving a remote control truck as a gift when I was nine years old, before I had any real experience with electronics, and it was supposed to give me with enjoyment. It did, but not in the way that my parents would have expected or been pleased with. That remote control truck was the beginning of my interest with electronics and technology, because the first thing I did was disassemble it to understand how everything worked. It wasn't until I was older that I began to focus my spare time to learning various knowledge about computers and electronics, such as programming and hardware.
+Electronics and technology intrigued me as a child. I recall receiving a remote control truck as a gift when I was nine years old, before I had any real experience with electronics, and it was supposed to provide me with enjoyment. It did, but not in the way that my parents would have expected or been pleased with. That remote control truck was the beginning of my interest with electronics and tech, because the first thing I did was disassemble it to understand how everything worked. It wasn't until I was older that I began to focus my spare time to learning various knowledge about computers and electronics, such as programming and hardware.
 
 &nbsp;
 
