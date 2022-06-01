@@ -10,6 +10,8 @@ The Bayesian Sensor is a great option that is underused in Home Assistant. This 
 <!--more-->
 &nbsp;
 
+{% include youtube.html id='oDWQCJbBrKE' %}
+
 ## Background
 
 Bayes' theorem, or the Bayesian Sensor in our case, is a concept in probability theory and statistics named after Thomas Bayes that describes the likelihood of an event occurring based on prior knowledge of elements that may be connected with said event. We're using Bayesian inference for the Home Assistant integration, which is a statistical inference method that leverages Bayes' theorem to update the probability of an occurrence as new data or information becomes available.
