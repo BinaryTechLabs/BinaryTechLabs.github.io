@@ -50,7 +50,7 @@ D -->|Re-Test| B
 C --> E{Application}
 E --> F[Pass]
 E --> G[Fail]
-G -->|Re-Test| E
+G -->|Re-Apply| E
 F -->|Recieve| H(Certificate)
 ```
 
