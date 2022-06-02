@@ -11,7 +11,7 @@ The Bayesian Sensor is a great option that is underused in Home Assistant. This 
 &nbsp;
 
 {% include youtube.html id='oDWQCJbBrKE' %}
-> **ProTip:** You can watch on YouTube istead of reading this!  
+> **ProTip:** You can watch on YouTube instead of reading this!  
 
 ## Background
 
