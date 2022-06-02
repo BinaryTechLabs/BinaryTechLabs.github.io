@@ -6,8 +6,6 @@ categories: [Home Automation]
 tags: [protocol, communication]
 ---
 
-![Matter](https://en.wikipedia.org/wiki/File:Logo_of_Matter_connectivity_standard.svg)
-
 ## <span style="color: #095d74;">Matter History</span>
 
 ---
