@@ -38,7 +38,7 @@ twitter:
   username: binarytechlabs            # change to your twitter username
 
 youtube:
-  username: BinaryTechLabs            # change to your twitter username
+  username: BinaryTechLabs            # change to your youttube username
 
 social:
   # Change to your full name.
@@ -107,7 +107,7 @@ comments:
     repo_id: R_kgDOHbUaqg
     category: Announcements
     category_id: DIC_kwDOHbUaqs4CPbA7
-    mapping: pathname         # optional, default to 'pathname'
+    mapping: URL         # optional, default to 'pathname'
     input_position: top  # optional, default to 'bottom'
     lang:             # optional, default to the value of `site.lang`
 
